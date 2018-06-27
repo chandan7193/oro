@@ -12,7 +12,6 @@ import Header from "./Header";
 class UsersIndex extends Component {
   constructor() {
     super();
-    this.onDeleteClick = this.onDeleteClick.bind(this);
   }
 
   componentDidMount() {
@@ -31,7 +30,6 @@ class UsersIndex extends Component {
             profile_pic={user.profile_pic}
             name={user.name}
             email={user.email}
-            deleteItem={this.onDeleteClick}
           />
         </div>
       );

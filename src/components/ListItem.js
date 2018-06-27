@@ -11,10 +11,7 @@ const ListItem = props => {
           <button type="button" className="btn btn-link colorccc">
             Edit
           </button>
-          <button
-            type="button"
-            className="btn btn-link colorccc"
-            onClick={this.props.deleteItem(id)}>
+          <button type="button" className="btn btn-link colorccc">
             Delete
           </button>
         </div>
