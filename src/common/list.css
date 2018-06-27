@@ -1,0 +1,43 @@
+.boxed {
+  border: 1px solid #ccc;
+
+  height: 140px;
+}
+.textAlignCenter {
+  text-align: center;
+}
+.padding25 {
+  padding: 25px;
+}
+
+.float_right {
+  float: right;
+}
+.card-body {
+  padding: 0rem;
+}
+.cards {
+  padding: 15px;
+}
+
+.rounded-img {
+  width: 50px;
+  border-radius: 50%;
+  margin-bottom: 25px;
+}
+.colorccc {
+  color: #ccc;
+}
+.content {
+  padding: 10px;
+
+  display: inline-block;
+}
+
+.inline-img {
+  display: inline-block;
+}
+
+.inline-text {
+  display: inline-block;
+}

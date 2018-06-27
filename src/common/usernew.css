@@ -1,0 +1,12 @@
+.width150 {
+  width: 150px !important;
+}
+
+.halfrounded {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #1a73e8;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  background-color: #1a73e8;
+}
